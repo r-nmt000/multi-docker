@@ -4,6 +4,8 @@
 
 #!! ERROR: nginx is undefined. Use list command to see defined gitignore types !!#
 
+.idea/
+
 ### Node ###
 # Logs
 logs
